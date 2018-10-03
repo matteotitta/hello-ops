@@ -1,2 +1,2 @@
-# operations
+# operations ⚙️
 business operations and processes
