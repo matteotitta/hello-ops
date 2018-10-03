@@ -1,4 +1,4 @@
 # Operations ⚙️
-wikis for business operations and processes.
+Wikis for business operations and processes.
 
 Hope you find them useful!
